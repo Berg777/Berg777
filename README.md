@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hello! I am <a href="https://www.linkedin.com/in/lucas-lintz-869075208/"><i>Lucas Cesar</i></a>
+  Hello! I'm <a href="https://www.linkedin.com/in/lucas-lintz-869075208/"><i>Lucas Cesar</i></a>
   </h1>
   
 - 🧑🏼‍💻 Atualmente a procura de um estágio
