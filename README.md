@@ -5,12 +5,12 @@
 - 🧑🏼‍💻 Atualmente a procura de um estágio
 - 👨🏼‍🎓 Cursando Cybersecurity - FIAP
 - 📗 Estudando Python
-
+midnight-purple
     
 <div align="center">
   <a href="https://github.com/Berg777">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Berg777&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berg777&layout=compact&langs_count=7&theme=yeblu"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Berg777&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berg777&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
   
 <div style"display: inline_block" align="center"<br>
