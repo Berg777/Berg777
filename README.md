@@ -5,7 +5,7 @@
 - 🧑🏼‍💻 Atualmente a procura de um estágio
 - 👨🏼‍🎓 Cursando Cybersecurity - FIAP
 - 📗 Estudando Python
-midnight-purple
+
     
 <div align="center">
   <a href="https://github.com/Berg777">
