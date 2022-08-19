@@ -16,7 +16,6 @@
 <div style"display: inline_block" align="center"<br>
   <img align="center" alt="arduino" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="bash" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img align="center" alt="C++" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Linux" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" alt="Python" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="HTML" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
