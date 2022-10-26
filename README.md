@@ -13,7 +13,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Berg777&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berg777&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
-  
+
+<br></br>
+
 <div style"display: inline_block" align="center"<br>
   <img align="center" alt="arduino" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="bash" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -24,7 +26,9 @@
   <img align="center" alt="wordpress" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" />
   <img align="center" alt="mysql" height="40" widt="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
- 
+
+<br></br>
+
  ##
  
  <div align="center">
