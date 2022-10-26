@@ -7,6 +7,11 @@
 - 📗 Estudando Python
 - 🎮 TryHackMe Player
 
+<center>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/bergprod.png" alt="TryHackMe">
+  
+</center>
+ 🏆  Rank | 🚪 Salas Concluídas | 🎯 Emblemas ganhos
     
 <div align="center">
   <a href="https://github.com/Berg777">
