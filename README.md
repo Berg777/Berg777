@@ -3,7 +3,7 @@
   </h1>
   
   <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/bergprod.png" alt="TryHackMe">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/bergprod.png" alt="TryHackMe"> 
 
 <p align="center"> 🏆  Rank | 🚪 Salas Concluídas | 🎯 Emblemas ganhos</p>
 
